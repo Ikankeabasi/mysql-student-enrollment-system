@@ -1,0 +1,2 @@
+# mysql-student-enrollment-system
+. CREATE DATABASE CREATE TABLE INSERT UPDATE SELECT ALTER TABLE
